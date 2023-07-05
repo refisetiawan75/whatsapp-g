@@ -1,12 +1,13 @@
 {
-  "type": "",
-  "project_id": "",
-  "private_key_id": "",
-  "private_key": "",
-  "client_email": "",
-  "client_id": "",
+  "type": "service_account",
+  "project_id": "crafty-ensign-391215",
+  "private_key_id": "1c91b0f66718da1996ab6ee5c291325d5ef2967c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDfMS0OtdAtS/++\nRL3GdUz3V9z+mMkKXsjmw34RJnNQWyvdzYs12Xx4is6IFPexZBlfdvf3RGpTVss6\nAimzwgbhhICQfkV0NbsOcgQ+0cgtReCPbKamFuUmHeOCVE/xZgJbk5NG8Cz5zz75\n/YfUpUM7Ge+XDxMXz6KarMA9jkhKVWx8WY/mV7KNC8IoWNjbM4tOKLvTHop9sGmB\nQugmFm6gblVJMPJ17XQO/AHFHZ/w1Kk8uD78H+89Tqdt/LYYhFy7BxCfn5E8dbwm\nln6btalh8JvGboB+CSSR2Q25ccnvnAxQuFE5Cxg9/La5U867tcFyTagCauAT0l6s\nllcY+wSBAgMBAAECggEAAPc8l5eepOeIiIP8dzygM+If3RkqUN7BS0sAGLu8HCun\nfbBLQH/RAPuGx8Ihd+rJN6dzN2ZxeFaujpvI9D5sGwiLVDS7q7RPe3vvppmanmQy\n7nlHolMvNCeadFYAOjjuXIOVC6Wekt58SlwivOnnJ9JlqJdtMM6aSJrj7RBDIfve\nZ9GltLvMFApnVIgO7l5RIhjPLcFNmGnPmXZEQv5uAeYvhwqGBc7L6UKfvilV4mb4\ne5rnLeqCFUivOAVzqnnZXNRypJIuVEO6v06q6Wq3CwObTlNrW3VByQon6WI/pPCV\nNFYE+dFvJf3xpZf1IXCty3g5htakDHJwALG4QtLObQKBgQD8wilP7KhYNvt8G734\n+Xiv+GKSLGJIi1VSzUs1nEUOPpA0HiWrmEyjJJ6IvBQwYGuNRe1yATO2o0ozP3D1\nxKfOxhpgDdKZUN27wbATL79IVBvyxQrU3oMcWVnLcY/75LnMdNDYCk88YkXSlVNc\n/OXeLzU1+TKh2Cjvg6PpX49tTQKBgQDiDfHJ0ypenr/4xhEXUMSPSEj16WdPXhdf\nRu7YJIn79RCF60ezzBzlBnfzP5Td2+tupWxvG9qLFqdlBpisAYyB6MIirEoWSUZL\nIycRcsTXGu+HSgGiQU9/fWIwkQJaZdrSedSvkYOLIV3/Q5QQfjaDD+xKQj3WMGPk\n2QE2sZxqBQKBgCRPpG21+u1JYNGQjrcg58Sn80k6lRgE5EoT8hUOkSEdvcuu9Qx0\nwbXCQgA0vNXCVFEkVZtGLu6zAKriF1FHYjAjZ5CbC8E4y9H4XlozRtCWPLmgsxCn\nssA02eCPPPccAdEsiwAuYvmyyIMbLrGyJzfHImbRmQOFMURPbhHNx6YVAoGBAIOx\nY/8USka9bVFc8nAG2bwvfHHm/Ay84Bjdlh/NiaWDa5DZNPiGHP8/+Xl4vR1TFaFs\nNfO04mjNVdABO8hZTqYQF6ljffXl0lHLtOLxXcODKbBDaRhBvDKltSJeGGTZmdWs\nrD9sIppXYg9oK0ZAgTlxeVL5rFSv9EJKOe7HIjyRAoGBAICZqbyP59j8CRBdV9gj\nRDGhlU11RImAaMzm7FO3XCy1XpfZt7YXrvZ7HFWG3bsE9rHQ1XBgwO1VARmXU7Pk\npMQcPM+bY7cNkFgFDT6hRuL0kA6lrfOodAqeKdXvGw5iZiH91TpWtmk3H2fBnp4b\njsd3dI8URioAVT4mtvGszDg4\n-----END PRIVATE KEY-----\n",
+  "client_email": "wagpt-270@crafty-ensign-391215.iam.gserviceaccount.com",
+  "client_id": "101704917340366682383",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": ""
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wagpt-270%40crafty-ensign-391215.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
 }
